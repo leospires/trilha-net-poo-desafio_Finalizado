@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oVxHsCkop7B6x4bZuEKdHrWVsvMHkIoItfAV1yPZ3NHpLidbe8BelHOH/p6tyMXO060I7XA0rd6SgLQfwo7FaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Léo Pires\\Desktop\\Temp\\DIO\\DecolaTech 2024\\trilha-net-poo-desafio\\DesafioPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Léo Pires\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Léo Pires\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Léo Pires\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Léo Pires\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
